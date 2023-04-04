@@ -10,8 +10,15 @@ The main objectives of this project, is to be able to use the output of a given 
 another program and get use if it.
 
 ## Requirements 
-- **swipl** installed.
+- **swipl**.
 - Python3.
+
+## Demo
+
+
+![demo](https://user-images.githubusercontent.com/82417779/229846508-830e475e-02cc-4858-a1b2-8993ed24f7ff.gif)
+
+
 
 ## Contributions are welcome
 Feel free to make a PR to contribute to this repository
